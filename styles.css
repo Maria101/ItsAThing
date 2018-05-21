@@ -1,0 +1,28 @@
+body{
+  background: linear-gradient(to right,#ffd1dc , white, #9477cb,#60604e,#5284bd); 
+
+}
+
+p
+{color: ;}
+
+
+h1
+{color: ; text-decoration-line: underline;}
+
+
+h2
+{color: ; text-decoration-line: underline;}
+
+
+.male
+{transform: rotate(90deg);
+  overflow: auto;
+}
+
+.both
+{transform: rotate(90deg);
+  overflow: auto;
+
+}
+
